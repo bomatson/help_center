@@ -485,7 +485,7 @@ input[type="submit"][disabled] {
 }
 
 .logo img {
-  max-height: 24px;
+  max-height: 40px;
 }
 
 .user-nav {
