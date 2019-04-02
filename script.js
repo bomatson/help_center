@@ -4,8 +4,8 @@ HC.SETTINGS = {
 
   tutorialCategory: 115001339528,
   icons: {
-    "201295803": document.head.querySelector("[property=asseturlrocket]").content, // Getting Started
-    "201295783": document.head.querySelector("[property=asseturltools]").content, // Knowledge Base
+    "360003603373": document.head.querySelector("[property=asseturlrocket]").content, // Getting Started
+    "360003550694": document.head.querySelector("[property=asseturltools]").content, // Knowledge Base
     "community": document.head.querySelector("[property=asseturlchat]").content, // Community
     "201295763": document.head.querySelector("[property=asseturlrocket]").content, // Getting Started
   },
