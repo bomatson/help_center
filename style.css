@@ -842,8 +842,8 @@ input[type="submit"][disabled] {
   background: $hero_background_color;
   background-position: center;
   background-size: cover;
-  height: 250px;
-  padding: 0 20px;
+  min-height: 250px;
+  padding: 0 20px 20px;
   text-align: center;
   width: 100%;
   display: flex;
